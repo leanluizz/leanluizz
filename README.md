@@ -1,7 +1,11 @@
 Hi,my name is Leandro Luiz Ribeiro Gomes 😝
+
 📚 - Currently i'm styudyng for  be Front-End Developer
+
 ⌛  - Studying JavaScript!
+
 📧 - Contact me in luizzleandro827@gmail.com
+
 
 ## Hi,i'am Leandro Luiz
 <div align="center">
