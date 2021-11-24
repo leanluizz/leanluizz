@@ -4,9 +4,13 @@ _" Don't try to be successful, try to be a man of value instead."_
 Olá eu sou Leandro Luiz,tenho total interesse em aprender Front-End e Back-End,almejo mais a frente me tornar um **Engenheiro de Software** em uma faculdade.Estou no começo e espero me tornar um programador Front-End melhor e aprender novas tecnologias todos os dias. 
 
 💻  Atualmente estou estudando:
+
 🔶 - HTML5
+
 🔷 - CSS3
+
 💛 - JAVASCRIPT
+
 🖋️ - JQUERY
 
 Quero aprender futuramente ainda algumas Frameworks,bibliotecas,banco de dados entre outras tecnologias
