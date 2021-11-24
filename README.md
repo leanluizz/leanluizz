@@ -1,11 +1,23 @@
-Hi,my name is Leandro Luiz Ribeiro Gomes 😝
+_" Don't try to be successful, try to be a man of value instead."_  
+                                                    ~Albert Einstein 😝
 
-📚 - Currently i'm styudyng for  be Front-End Developer
+Olá eu sou Leandro Luiz,tenho total interesse em aprender Front-End e Back-End,almejo mais a frente me tornar um **Engenheiro de Software** em uma faculdade.Estou no começo e espero me tornar um programador Front-End melhor e aprender novas tecnologias todos os dias. 
 
-⌛  - Studying JavaScript!
+💻  Atualmente estou estudando:
+🔶 - HTML5
+🔷 - CSS3
+💛 - JAVASCRIPT
+🖋️ - JQUERY
 
-📧 - Contact me in luizzleandro827@gmail.com
+Quero aprender futuramente ainda algumas Frameworks,bibliotecas,banco de dados entre outras tecnologias
 
+
+📞 Contatos: 
+📧 Email: luizzleandro827@gmail.com
+
+
+Muito obrigado!
+👍 👽
 
 ## Hi,i'am Leandro Luiz
 <div align="center">
