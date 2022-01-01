@@ -13,6 +13,8 @@ Olá eu sou Leandro Luiz,tenho total interesse em aprender Front-End e Back-End,
 
 🖋️ - JQUERY
 
+💚 - NodeJS
+
 Quero aprender futuramente ainda algumas Frameworks,bibliotecas,banco de dados entre outras tecnologias
 
 
