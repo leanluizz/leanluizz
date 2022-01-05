@@ -15,6 +15,10 @@ Olá eu sou Leandro Luiz,tenho total interesse em aprender Front-End e Back-End,
 
 💚 - NodeJS
 
+🚄 - Express
+
+🐬 - MySQL
+
 Quero aprender futuramente ainda algumas Frameworks,bibliotecas,banco de dados entre outras tecnologias
 
 
@@ -38,5 +42,6 @@ Muito obrigado!
   <img align="center" alt="Leandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leandro-JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="Leandro-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Leandro-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/MySQL-original.svg">
   
 </div>
