@@ -29,6 +29,7 @@ Quero aprender futuramente ainda algumas Frameworks,bibliotecas,banco de dados e
 📞 Contatos: 
 
 📧 Email: luizzleandro827@gmail.com
+🟦 Linkedin: https://www.linkedin.com/in/leandro-luiz-a022131bb/
 
 
 Muito obrigado!
