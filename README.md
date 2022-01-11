@@ -9,9 +9,9 @@ Olá eu sou Leandro Luiz,tenho total interesse em aprender Front-End e Back-End,
 
 🔷 - CSS3
 
-<script src="https://rawgit.com/theraot/emoji/master/emoji.js" charset="utf-8"></script> - JAVASCRIPT
+💛 - JAVASCRIPT
 
-🖋️ - JQUERY
+🔷 - JQUERY
 
 💚 - NodeJS
 
@@ -20,6 +20,8 @@ Olá eu sou Leandro Luiz,tenho total interesse em aprender Front-End e Back-End,
 🐬 - MySQL
 
 :octocat: - GitHub
+
+🔸 - GIT
 
 Quero aprender futuramente ainda algumas Frameworks,bibliotecas,banco de dados entre outras tecnologias
 
