@@ -23,6 +23,8 @@ Olá eu sou Leandro Luiz,tenho total interesse em aprender Front-End e Back-End,
 
 🔸 - GIT
 
+💜 - Bootstrap
+
 Quero aprender futuramente ainda algumas Frameworks,bibliotecas,banco de dados entre outras tecnologias
 
 
@@ -51,5 +53,6 @@ Muito obrigado!
   <img align="center" alt="Leandro-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Leandro-GItHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Leandro-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Leandro-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   
 </div>
