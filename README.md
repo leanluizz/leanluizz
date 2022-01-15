@@ -1,7 +1,7 @@
 _" Don't try to be successful, try to be a man of value instead."_  
                                                     ~Albert Einstein 😝
 
-Olá eu sou Leandro Luiz,tenho total interesse em aprender Front-End e Back-End,almejo mais a frente fazer uma faculdade e me graduar em uma **Engenharia de Software**.Estou no começo e vou me tornando um programador Front-End melhor a cada dia. 
+I'm Leandro Luiz, I'm totally interested in learning Front-End and Back-End, in addition to going to college and graduating in a **Software Engineering**. I'm at the beginning and I'm going to become a Front-End programmer. End better every day.
 
 💻  Atualmente estou estudando:
 
