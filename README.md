@@ -25,6 +25,8 @@ I'm Leandro Luiz, I'm totally interested in learning Front-End and Back-End, in 
 
 💜 - Bootstrap
 
+⚛️ - React JS
+
 I want it in the future learn so much tecnology in Front-End and Back-End
 
 
@@ -54,5 +56,6 @@ Thank you!
   <img align="center" alt="Leandro-GItHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Leandro-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Leandro-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Leandro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
 </div>
