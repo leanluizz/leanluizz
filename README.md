@@ -1,7 +1,7 @@
 _" Don't try to be successful, try to be a man of value instead."_  
                                                     ~Albert Einstein 
 
-I'm Leandro Luiz, I'm totally interested in learning Full Stack Devops, and graduating in a **Software Engineering**. I'm at the beginning and I'm going to become a Front-End programmer and technologies. 
+I'm Leandro Luiz, I'm totally interested in learning Full Stack Devops, and graduating in a **Software Engineering**.I'm a Front-End programmer and i staying updated in more modern technologies requisited of market. 
 
   Currently i'am studyng:
 
@@ -27,7 +27,7 @@ I'm Leandro Luiz, I'm totally interested in learning Full Stack Devops, and grad
 
  - React JS
 
-I want it in the future learn so much tecnology in Front-End and Back-End
+"Keep Learning"
 
 
 📞 Contacts: 
