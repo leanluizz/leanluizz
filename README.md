@@ -26,6 +26,8 @@ I'm Leandro Luiz, I'm totally interested in learning Full Stack Devops, and grad
 - Bootstrap
 
  - React JS
+ 
+ - GulpJS
 
 "Keep Learning"
 
