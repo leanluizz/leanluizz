@@ -1,35 +1,4 @@
-_" Don't try to be successful, try to be a man of value instead."_  
-                                                    ~Albert Einstein 
 
-I'm Leandro Luiz, I'm totally interested in learning Full Stack Devops, and graduating in a **Software Engineering**.I'm a Front-End programmer and i staying updated in more modern technologies requisited of market. 
-
-  Currently i'am studyng:
-
- - HTML5
-
- - CSS3
-
- - JAVASCRIPT
-
- - JQUERY
-
- - NodeJS
-
-- Express
-
- - MySQL
-
-- GitHub
-
-- GIT
-
-- Bootstrap
-
- - React JS
- 
- - GulpJS
-
-"Keep Learning"
 
 
 📞 Contacts: 
@@ -38,9 +7,6 @@ I'm Leandro Luiz, I'm totally interested in learning Full Stack Devops, and grad
 
 📘 Linkedin: https://www.linkedin.com/in/leandro-luiz-a022131bb/
 
-
-Thank you!
-👍 👽
 
 ## Hi,i'am Leandro Luiz
 <div align="center">
