@@ -1,11 +1,11 @@
 
-## Hi,i'am Leandro Luiz
+## Hi,i'am Leandro Luiz,  Programmer
 
 ## Who i'am?
-i'am a programmer, i looking for more chalenges in market job where i can besting my skills and some in a developer team
+I'am a programmer, i looking for more chalenges in market job where i can besting my skills and some in a developer team
 
 ### Skills
-i'am ever studyng so, i can show more of my skills in my repositories but i have ease with ### Front-End Web
+I'am ever studyng so, i can show more of my skills in my repositories but i have ease with ### Front-End Web
 
 <div align="center">
   <a href="https://github.com/leanluizz">
