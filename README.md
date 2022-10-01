@@ -1,5 +1,5 @@
 
-## Hello , i'am Leandro Luiz a Programmer
+## Hello , i'am Leandro Luiz!
 
 ## Who i'am?
 I'am a programmer, i looking for more chalenges in market job where i can besting my skills and some in a developer team
