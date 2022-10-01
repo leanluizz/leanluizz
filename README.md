@@ -1,14 +1,12 @@
 
-
-
-📞 Contacts: 
-
-📧 Email: luizzleandro827@gmail.com
-
-📘 Linkedin: https://www.linkedin.com/in/leandro-luiz-a022131bb/
-
-
 ## Hi,i'am Leandro Luiz
+
+## Who i'am?
+i'am a programmer, i looking for more chalenges in market job where i can besting my skills and some in a developer team
+
+### Skills
+i'am ever studyng so, i can show more of my skills in my repositories but i have ease with ### Front-End Web
+
 <div align="center">
   <a href="https://github.com/leanluizz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leanluizz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
@@ -25,5 +23,10 @@
   <img align="center" alt="Leandro-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Leandro-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Leandro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
 </div>
+  
+  📞 Contacts: 
+
+📧 Email: luizzleandro827@gmail.com
+
+📘 Linkedin: https://www.linkedin.com/in/leandro-luiz-a022131bb/
