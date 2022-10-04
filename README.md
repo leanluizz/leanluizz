@@ -1,5 +1,5 @@
 ## Who i'am?
-I am a programmer looking for more challenges in the job market and to improve my skills within a company
+I am Leandro Luiz, a programmer looking for more challenges in the job market and to improve my skills within a company
 
 ### Skills
 I am always studying and updating myself about the most modern technologies in the market, lately my skills can be summarized in
