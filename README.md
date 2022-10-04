@@ -1,6 +1,3 @@
-
-## Hello , i'am Leandro Luiz!
-
 ## Who i'am?
 I am a programmer looking for more challenges in the job market and to improve my skills within a company
 
