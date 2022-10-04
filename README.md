@@ -7,7 +7,10 @@ I am always studying and updating myself about the most modern technologies in t
 > Front-End Web
 * Landing Page
 * Web System
+
+> Back-End
 * CRUD
+* Code Versioning with GIT
 
 > Tech
 
