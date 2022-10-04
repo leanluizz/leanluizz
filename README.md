@@ -28,10 +28,3 @@ I am always studying and updating myself about the most modern technologies in t
   <img align="center" alt="Leandro-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Leandro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
-  
-  
-  📞 Contacts: 
-
-📧 Email: luizzleandro827@gmail.com
-
-📘 Linkedin: https://www.linkedin.com/in/leandro-luiz-a022131bb/
