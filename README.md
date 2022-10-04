@@ -2,7 +2,7 @@
 ## Hello , i'am Leandro Luiz!
 
 ## Who i'am?
-I'am a programmer, i looking for more chalenges in market job where i can besting my skills and some in a developer team
+I am a programmer looking for more challenges in the job market and to improve my skills within a company
 
 ### Skills
 I am always studying and updating myself about the most modern technologies in the market, lately my skills can be summarized in
