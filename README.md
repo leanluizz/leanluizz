@@ -10,7 +10,7 @@ I am always studying and updating myself about the most modern technologies in t
 * Flex-Box
 * Grid-Box
 * To-Do-List
-
+* Geolocation
 
 > Back-End
 * CRUD
