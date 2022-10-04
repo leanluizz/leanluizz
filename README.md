@@ -5,9 +5,11 @@
 I'am a programmer, i looking for more chalenges in market job where i can besting my skills and some in a developer team
 
 ### Skills
-I'am ever studyng so, i can show more of my skills in my repositories but i have ease with 
+I am always studying and updating myself about the most modern technologies in the market, lately my skills can be summarized in
 
 > Front-End Web
+* Landing Page
+* Web System
 
 <div align="center">
   <a href="https://github.com/leanluizz">
