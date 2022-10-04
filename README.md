@@ -7,6 +7,7 @@ I am always studying and updating myself about the most modern technologies in t
 > Front-End Web
 * Landing Page
 * Web System
+* Crud
 
 > Tech
 
