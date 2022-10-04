@@ -7,6 +7,10 @@ I am always studying and updating myself about the most modern technologies in t
 > Front-End Web
 * Landing Page
 * Web System
+* Flex-Box
+* Grid-Box
+* To-Do-List
+
 
 > Back-End
 * CRUD
