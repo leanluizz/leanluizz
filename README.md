@@ -18,7 +18,6 @@ I am always studying and updating myself about the most modern technologies in t
 
 > Tech
 
-<div style="display: flex; justify-content: space-beetween">
 <div style="display: inline_block; margin-top:10px;">
   <img align="center" alt="Leandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -39,4 +38,3 @@ I am always studying and updating myself about the most modern technologies in t
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leanluizz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanluizz&layout=compact&langs_count=7&theme=onedark"/>
 </div>
-  </div>
