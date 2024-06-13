@@ -1,5 +1,5 @@
 ## Who i'am?
-I am Leandro Luiz, a webprogrammer!😄
+I am Leandro Luiz, a developer!😄
 
 <div style="display: inline_block; padding: 20px;">
   <img align="center" alt="Leandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
