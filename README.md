@@ -34,7 +34,6 @@
 
 [Portifólio](https://portifolioleandroluizdev-leanluizzs-projects.vercel.app/)
 
-## Dados do meu perfil no Github
 
 <div align="center">
   <a href="https://github.com/leanluizz">
