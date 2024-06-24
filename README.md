@@ -1,8 +1,8 @@
-# Me chamo Leandro Luiz, um dev! 😄
-
+  # Me chamo Leandro Luiz, um dev! 😄
+  
 Breve readme sobre quais tecnologias eu utilizo, dados do meu github e meu contato de email.
 
-## Ferramentas Client Side:
+  ## Ferramentas Client Side:
 
 <div style="display: flex"; padding: 20px;">
   <img align="center" alt="Leandro-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
@@ -26,17 +26,17 @@ Breve readme sobre quais tecnologias eu utilizo, dados do meu github e meu conta
 <img align="center" alt="Leandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img align="center" alt="Leandro-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 
-## UI Libs:
+  ## UI Libs:
 
   <img align="center" alt="Leandro-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 <img align="center" alt="Leandro-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 
-## Meu site portfólio pra clientes
+  ## Meu site portfólio pra clientes
 
 [Portifólio](https://portifolioleandroluizdev-leanluizzs-projects.vercel.app/)
 
-## Email
+  ## Email
 
 email: luizzleandro827@gmail.com
 
