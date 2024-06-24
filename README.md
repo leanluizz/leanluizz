@@ -27,7 +27,7 @@
 ## UI Libs:
 
   <img align="center" alt="Leandro-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-<img align="center" alt="Leandro-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original.svg">
+<img align="center" alt="Leandro-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 
 ## Meu site portfólio pra clientes
