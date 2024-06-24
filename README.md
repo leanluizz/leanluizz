@@ -14,7 +14,7 @@
   <img align="center" alt="Leandro-FB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
   <img align="center" alt="Leandro-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
-  ## Android
+  ## Mobile
  
   <img align="center" alt="Leandro-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 
