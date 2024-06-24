@@ -1,6 +1,6 @@
 # Me chamo Leandro Luiz, um dev! 😄
 
-## Ferramentas de desenvolvimento:
+## Ferramentas:
 
 <div style="display: flex"; padding: 20px;">
   <img align="center" alt="Leandro-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -11,6 +11,11 @@
   <img align="center" alt="Leandro-Type-Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Leandro-Next-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Leandro-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+<img align="center" alt="Leandro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+## UI Libs:
+
+  <img align="center" alt="Leandro-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 
 ## Meu site portfólio pra clientes
