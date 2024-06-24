@@ -17,6 +17,8 @@
 
 [Portifólio](https://portifolioleandroluizdev-leanluizzs-projects.vercel.app/)
 
+## Dados do meu perfil no Github
+
 <div align="center">
   <a href="https://github.com/leanluizz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leanluizz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
