@@ -1,4 +1,4 @@
-  # Me chamo Leandro Luiz, um dev! 🇧🇷
+  # Me chamo Leandro Luiz, um dev! 🦇
   
 Breve readme sobre quais tecnologias eu utilizo, dados do meu github e meu contato de email.
 
