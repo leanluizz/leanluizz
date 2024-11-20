@@ -19,6 +19,7 @@ Breve readme sobre quais tecnologias eu utilizo, dados do meu github e meu conta
   ## Mobile
  
   <img align="center" alt="Leandro-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Leandro-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react-native/react-native-original.svg">
 
   ## Linguagens
 
