@@ -31,12 +31,13 @@ Breve readme sobre quais tecnologias eu utilizo, dados do meu github e meu conta
 
   <img align="center" alt="Leandro-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Leandro-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-</div>
 
 ## Design Tools:
 
  <img align="center" alt="Leandro-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
- <img align="center" alt="Leandro-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
+ <img align="center" alt="Leandro-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
+
+</div>
  
   ## Meu site portfólio pra clientes
 
