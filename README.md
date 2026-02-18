@@ -41,7 +41,7 @@ Breve readme sobre quais tecnologias eu utilizo, dados do meu github e meu conta
  
   ## Meu site portfólio pra clientes
 
-[Portifólio](leandroweb.dev)
+[Portifólio](http://www.leandroweb.dev)
 
   ## Email
 
