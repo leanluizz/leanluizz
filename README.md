@@ -41,7 +41,7 @@ Breve readme sobre quais tecnologias eu utilizo, dados do meu github e meu conta
  
   ## Meu site portfólio pra clientes
 
-[Portifólio](https://portifolioleandroluizdev-leanluizzs-projects.vercel.app/)
+[Portifólio](leandroweb.dev)
 
   ## Email
 
