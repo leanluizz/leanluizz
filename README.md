@@ -1,8 +1,9 @@
+
 # Leandro Luiz Ribeiro Gomes
 
 Desenvolvedor Front-End com foco em construção de interfaces modernas, performáticas e escaláveis. Experiência prática com aplicações web, mobile e integrações back-end. Atuação orientada a boas práticas, organização arquitetural e código sustentável.
 
-Tenho vivência em projetos reais envolvendo React, Next.js, aplicações mobile e integrações com APIs. Também atuo com backend Node.js e ecossistema .NET, expandindo constantemente meu domínio técnico para além do front.
+Tenho vivência em projetos reais envolvendo React, Next.js, aplicações mobile e integrações com APIs. Também atuo com backend Node.js e ecossistema .NET, além de serviços cloud como AWS e Azure, expandindo constantemente meu domínio técnico para além do front.
 
 Meu objetivo é construir software com padrão profissional: legível, eficiente e preparado para crescimento.
 
@@ -18,7 +19,7 @@ Meu objetivo é construir software com padrão profissional: legível, eficiente
 
 ---
 
-### Server Side
+### Server Side & Cloud
 
 <div style="display: flex; gap: 10px; padding: 20px 0;">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -26,6 +27,9 @@ Meu objetivo é construir software com padrão profissional: legível, eficiente
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
+  <img align="center" alt="Supabase" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
@@ -88,5 +92,3 @@ Meu objetivo é construir software com padrão profissional: legível, eficiente
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanluizz&layout=compact&langs_count=7&theme=onedark"/>
   </a>
 </div>
-
----
