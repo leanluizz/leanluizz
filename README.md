@@ -83,12 +83,3 @@ Meu objetivo é construir software com padrão profissional: legível, eficiente
 
 📧 [leandrolzz180@gmail.com](mailto:leandrolzz180@gmail.com)
 🔗 [https://github.com/leanluizz](https://github.com/leanluizz)
-
----
-
-<div align="center">
-  <a href="https://github.com/leanluizz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leanluizz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanluizz&layout=compact&langs_count=7&theme=onedark"/>
-  </a>
-</div>
