@@ -1,5 +1,3 @@
----
-
 # Leandro Luiz Ribeiro Gomes
 
 Desenvolvedor Front-End com foco em construção de interfaces modernas, performáticas e escaláveis. Experiência prática com aplicações web, mobile e integrações back-end. Atuação orientada a boas práticas, organização arquitetural e código sustentável.
@@ -7,8 +5,6 @@ Desenvolvedor Front-End com foco em construção de interfaces modernas, perform
 Tenho vivência em projetos reais envolvendo React, Next.js, aplicações mobile e integrações com APIs. Também atuo com backend Node.js e ecossistema .NET, expandindo constantemente meu domínio técnico para além do front.
 
 Meu objetivo é construir software com padrão profissional: legível, eficiente e preparado para crescimento.
-
----
 
 ## Stack Principal
 
