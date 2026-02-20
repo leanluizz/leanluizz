@@ -57,9 +57,10 @@ Meu objetivo é construir software com padrão profissional: legível, eficiente
 
 ### CSS & UI
 
-<div style="display: flex; gap: 10px; padding: 20px 0;">
-  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+<div style="display: flex; gap: 10px; padding: 20px 0;"> <img align="center" alt="TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"> 
+<img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
+<img align="center" alt="MaterialUI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"> 
+<img align="center" alt="NextUI" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nextui.svg">
 </div>
 
 ---
