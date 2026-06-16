@@ -82,4 +82,3 @@ Meu objetivo é construir software com padrão profissional: legível, eficiente
 ## Contato
 
 📧 [leandrolzz180@gmail.com](mailto:leandrolzz180@gmail.com)
-🔗 [https://github.com/leanluizz](https://github.com/leanluizz)
